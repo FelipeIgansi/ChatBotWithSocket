@@ -48,7 +48,7 @@ class Constants {
     companion object {
         val THANKS = listOf("obrigado", "obrigada")
         val GREETINGS = listOf("oi", "ola")
-        val FAREWELLS = listOf("sair")
+        val FAREWELLS = listOf("sair", "tchau")
         val INQUIRIES = listOf("tudo bem", "tudo bem?")
     }
 }
